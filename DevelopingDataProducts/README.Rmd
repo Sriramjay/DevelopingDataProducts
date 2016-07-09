@@ -1,0 +1,22 @@
+---
+title: "Course Project - Developing Data Products"
+author: "SJ"
+date: "July 8, 2016"
+output: html_document
+---
+
+This is a submission for Developing Data Products - Project
+
+MPG Predictor - Based on mtcars Dataset
+This application is based on the sample mtcars database.
+
+This sample dataset provides engine data for different types of cars such as number of cylinders, horsepower, weight, MPG etc. This dataset helps us look at variable factors about car engines and see if these variable affect the mileage of the car.
+
+The application, which is an MPG Predictor, allows you to input the HP, number of cylinder's (4, 6, or 8) and the weight of the car. The resulting Linear model, allows you to compare the different values have on the MGP (miles per gallon) of the car.
+
+Project source code is available on GitHub at https://github.com/Sriramjay/DevelopingDataProducts
+
+The presentation for the project can also be found on the github URL above
+
+You can adjust the HP, number of cylinders and weight using the control panel located on the left pane.The result is shown in the models in the main panel on the right side.
+
